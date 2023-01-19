@@ -1,8 +1,9 @@
 # Sample Marketplace Project
+Scripts
 
-npm run test - to test all the functions and scenarios in ERC20, NFT and Marketplace Contract.
-npm run dev - to run app in nodemon setup.
-npm run start - to run the app in live server.
+    npm run test - to test all the functions and scenarios in ERC20, NFT and Marketplace Contract.
+    npm run dev - to run app in nodemon setup.
+    npm run start - to run the app in live server.
 
 Web3 integration - (web3.js)
 
